@@ -1,0 +1,27 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "yeah",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attonasi/07-node-npm.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Attonasi/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/Attonasi/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
